@@ -8,7 +8,9 @@
 
 
 ## How to translate?
-For now, our website is not 100% finished, so we cannot provide the localization file! Stay with us.
+Fork our repository containing the `en.js` file and start translating!<br>
+Be sure to rename your file to the language code (`example: ro.js/br.js`)<br>
+After contributing contact `sixt#9482` to claim your `translator` role.
 
 ## By translating, you will recieve:
 - A special place on our **contributors** page.
